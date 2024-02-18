@@ -1,1 +1,1 @@
-# Project2-Multiplication-Table-Jave
+# Project2-Multiplication-Table-Java
